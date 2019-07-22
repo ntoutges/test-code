@@ -1,0 +1,179 @@
+<div id="postHolder">
+        <div id="postAPost">
+            
+            <img src="profileUploads/ntoutges.jpg" class="img">
+            <div id="header">This is my name</div>
+            <textarea id="postContent"></textarea>
+            <button id="submit">Submit</button>
+        </div>
+        
+            <div id="0" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">a                    b                    c                    d                    e                    f                    g</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="1" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="2" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="3" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="4" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> &nbsp;a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="5" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> &nbsp; a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="6" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> &nbsp; &nbsp;a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="7" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> &nbsp; &nbsp; a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="8" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> &nbsp; &nbsp; &nbsp;a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="9" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">a
+b</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="10" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">this &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;is<br> &nbsp; &nbsp; &nbsp; &nbsp; a<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; test</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="11" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="12" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"> this is a <span class="tag">#test</span><br>of all the <b>things</b> that I have <i>put</i> in to it...<br><br>I hope<br><br>it<br><br>works</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="13" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><u>underline</u></div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="14" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">here is some text</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="15" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><b>here</b>is<i>some</i>neattext</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="16" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">here is a bit of <i>neat</i> text that is <b>here</b></div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="17" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">and some <u>more</u> text</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="18" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><b>bold</b><i>italic</i><u>underline</u></div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="19" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c<br><br> &nbsp; &nbsp; &nbsp; &nbsp;this is a test</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="20" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">I know that not <i>everything</i> I have done was good... and not <i>everyone</i> hurt has recovered... but <b>everyone</b> who knows me... is alive... what did <u>I</u> just type</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="21" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i><u><b>test</b>&lt; of everything</u></i></div><i><u>
+                <div class="footers"></div>
+            </u></i></div><i><u>
+        
+            <div id="22" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i><b><u>test</u></b></i> of everything</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="23" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i><u>test</u></i> of this</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="24" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i>test</i> of this</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="25" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i>test</i> of something</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="26" class="posts">
+                <div class="headers"></div>
+                <div class="bodys"><i>abcd</i>abdoaksdfoaisdmfoasidjfoaisidmfoiasmdf</div>
+                <div class="footers"></div>
+            </div>
+        
+            <div id="27" class="posts">
+                <div class="headers"></div>
+                <div class="bodys">here</div>
+                <div class="footers"></div>
+            </div>
+        
+    </u></i></div>
